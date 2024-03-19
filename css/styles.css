@@ -1,0 +1,15 @@
+.country{
+    fill: rgba(136, 124, 124, 0.678);
+    stroke: rgb(8, 5, 54);
+}
+.tooltip {
+    position: absolute;
+    background-color: #0f7e62;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 12px;
+    opacity: 0.8;
+    pointer-events: none;
+    padding: 10px;
+}
